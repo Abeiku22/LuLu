@@ -1,0 +1,44 @@
+.N-B {
+  background-color: rgba(0, 85, 255, 0.866);
+  color: white;
+  border: none;
+  height: 30px;
+  width: 200px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 650px;
+  transition: background-color 2s,
+  color 1s;
+
+  
+}
+.N-B:hover {
+  background-color: rgba(255, 228, 196, 0.514);
+  color: bisque;
+  opacity: 0.8;
+}
+.image {
+  font-size: 100px;
+  width: 150px;
+  border-radius: 100px;
+  height: 150px;
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border-color: brown;
+}
+body {
+  background-color: lightblue;
+}
+p {
+  font-family: Arial;
+  font-size: large;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  font-style: italic;
+}
